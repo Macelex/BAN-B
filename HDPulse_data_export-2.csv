@@ -1,0 +1,30 @@
+﻿Income (Median household income) for Massachusetts by County
+"All Races (includes Hispanic/Latino), Both Sexes, All Ages, 2019-2023"
+Sorted by Value
+
+County,FIPS,Value (Dollars),Rank within US (of 3141 counties)
+"United States",00000,"78,538","N/A"
+"Massachusetts",25000,"101,341","3 of 52"
+"Hampden County",25013,"70,535","1,013"
+"Berkshire County",25003,"72,565","854"
+"Franklin County",25011,"72,584","851"
+"Bristol County",25005,"84,198","378"
+"Hampshire County",25015,"86,391","323"
+"Suffolk County",25025,"92,859","225"
+"Worcester County",25027,"93,561","216"
+"Barnstable County",25001,"94,452","203"
+"Essex County",25009,"99,431","154"
+"Dukes County",25007,"102,348","130"
+"Plymouth County",25023,"109,698","80"
+"Nantucket County",25019,"119,750","48"
+"Norfolk County",25021,"126,497","30"
+"Middlesex County",25017,"126,779","29"
+
+Suggested Citation:
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 7/22/2025. Available from https://hdpulse.nimhd.nih.gov
+
+Notes:
+"NA: Data not available [http://hdpulse.nimhd.nih.gov/data/datanotavailable.html] for this combination of geography, cancer site, age, and race/ethnicity."
+Source: Demographic data provided by the Census Bureau (http://www.census.gov/) & the American Community Survey (http://www.census.gov/acs/www/).
+"For more information about Income (Median household income), see the dictionary at http://hdpulse.nimhd.nih.gov/dictionary.php#income."
+"Median Incomes over 250,000 have been coded to 250,001 by the Census Bureau. [ http://www2.census.gov/acs2012_5yr/summaryfile/ACS_2008-2012_SF_Tech_Doc.pdf ]"

@@ -1,0 +1,30 @@
+﻿Education (At least bachelor's degree) for Massachusetts by County
+Population Ages 25+
+"All Races (includes Hispanic/Latino), Both Sexes, 2019-2023"
+Sorted by Value
+
+County,FIPS,Value (Percent),People (Education: At Least Bachelor's Degree),Rank within US (of 3143 counties)
+"Massachusetts",25000,46.6,2305899,"2 of 52"
+"United States",00000,35.0,79954302,"N/A"
+"Middlesex County",25017,59.0,677768,"26"
+"Nantucket County",25019,58.4,6101,"28"
+"Norfolk County",25021,57.6,295617,"33"
+"Hampshire County",25015,51.1,51116,"75"
+"Suffolk County",25025,49.9,274881,"90"
+"Dukes County",25007,49.0,7817,"95"
+"Barnstable County",25001,47.4,86284,"120"
+"Essex County",25009,42.3,239863,"202"
+"Plymouth County",25023,41.2,155019,"226"
+"Franklin County",25011,40.3,21828,"241"
+"Worcester County",25027,39.0,235094,"282"
+"Berkshire County",25003,38.3,36639,"302"
+"Bristol County",25005,30.6,125347,"665"
+"Hampden County",25013,28.9,92525,"768"
+
+Suggested Citation:
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 7/22/2025. Available from https://hdpulse.nimhd.nih.gov
+
+Notes:
+"NA: Data not available [http://hdpulse.nimhd.nih.gov/data/datanotavailable.html] for this combination of geography, cancer site, age, and race/ethnicity."
+Source: Demographic data provided by the Census Bureau (http://www.census.gov/) & the American Community Survey (http://www.census.gov/acs/www/).
+"For more information about Education (At least bachelor's degree), see the dictionary at http://hdpulse.nimhd.nih.gov/dictionary.php#education."
